@@ -1,0 +1,43 @@
+.img-logo{
+    width: 170px;
+    height: 20px;
+}
+
+body {
+    background-image: url('img/login-bg-2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+
+  .form-border{
+    width: 600px;
+    height: 500px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .img-fluid{
+    width: 900px;
+    height: 600px;
+  }
+
+  .user{
+font-weight: 800;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+position: center;
+text-align: center;
+  }
+
+.footer-logo{
+  width: 20;
+  height: 20;
+}
+
+.pos-icons{
+  margin-top: 30px;
+}

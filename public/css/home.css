@@ -1,0 +1,74 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,700&display=swap');
+
+.home-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: flex-end;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    flex-direction: column;
+    background-size: cover;
+    justify-content: center;
+    background-repeat: center;
+    background-position: right,center;
+  }
+  .home-text {
+    top: 90px;
+    left: 53px;
+    color: rgb(249, 245, 245);
+    position: absolute;
+    font-size: 60px;
+    align-self: flex-start;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text4 {
+    top: 300px;
+    left: 221px;
+    color: goldenrod;
+    position: absolute;
+    font-size: 60px;
+    align-self: flex-start;
+    font-style: normal;
+    font-weight: 500;
+    font-family: 'Noto Serif', serif;
+  }
+  .home-heading {
+    top: 470px;
+    left: 150px;
+    color: white;
+    width: 874px;
+    position: absolute;
+    font-size: 60px;
+    font-style: normal;
+    text-align: justify;
+    font-weight: 800;
+  }
+  .text-left{
+    margin-left: 1000px;
+    margin-top: -200px;
+  }
+
+  .btn{
+    font-size: x-large;
+    font-weight: bold;
+  }
+
+.logo{
+  width: 300px;
+  height: 300px;
+  margin-left: center;
+}
+
+.home-image {
+  top: 10px;
+  right: 22px;
+  width: 400px;
+  height: 100px;
+  position: absolute;
+  transition: 0.3s;
+  padding-bottom: 1px;
+}
